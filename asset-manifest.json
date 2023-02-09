@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eileenpk/Robo-Friends/static/css/main.ac2d5ead.css",
+    "main.js": "/Eileenpk/Robo-Friends/static/js/main.366d3cbe.js",
+    "static/js/787.32032a02.chunk.js": "/Eileenpk/Robo-Friends/static/js/787.32032a02.chunk.js",
+    "index.html": "/Eileenpk/Robo-Friends/index.html",
+    "main.ac2d5ead.css.map": "/Eileenpk/Robo-Friends/static/css/main.ac2d5ead.css.map",
+    "main.366d3cbe.js.map": "/Eileenpk/Robo-Friends/static/js/main.366d3cbe.js.map",
+    "787.32032a02.chunk.js.map": "/Eileenpk/Robo-Friends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac2d5ead.css",
+    "static/js/main.366d3cbe.js"
+  ]
+}
